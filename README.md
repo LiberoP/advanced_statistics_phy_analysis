@@ -16,7 +16,7 @@ The following example plots (from assignment 2) show the Monte Carlo Markov chai
 
 
 
-### Assignment 0: warm-up and introductory statistical work
+## Assignment 0: warm-up and introductory statistical work
 
 **Problem**: This assignment is a basic introduction to statistical analysis in R, including data handling, summaries, and exploratory plots.
 
@@ -24,7 +24,7 @@ The following example plots (from assignment 2) show the Monte Carlo Markov chai
 
 **Results**: The main outcomes are the exploratory analysis itself and the generated plots, which are reported in the corresponding PDF.
 
-### Assignment 1: Poisson and negative binomial models
+## Assignment 1: Poisson and negative binomial models
 
 **Problem**: This assignment studies count data using Bayesian models and compares alternative likelihood choices.
 
@@ -32,7 +32,7 @@ The following example plots (from assignment 2) show the Monte Carlo Markov chai
 
 **Results**: The assignment provides posterior estimates, predictive checks, and a comparison between competing model formulations. Full details are in the PDF report.
 
-### Assignment 2: changepoint Poisson model
+## Assignment 2: changepoint Poisson model
 
 **Problem**: This assignment models event counts with a possible change in the underlying Poisson rate over time.
 
@@ -40,7 +40,7 @@ The following example plots (from assignment 2) show the Monte Carlo Markov chai
 
 **Results**: The project estimates the posterior distribution of the model parameters and the probability of a rate increase after the changepoint. The report contains the full interpretation.
 
-### Assignment 3: Bayesian logistic regression with Stan
+## Assignment 3: Bayesian logistic regression with Stan
 
 **Problem**: This assignment models a binary response as a function of a predictor, using Bayesian logistic regression.
 
